@@ -17,4 +17,5 @@
 .DS_Store
 log/*.log
 log/*.pid
-config/database.ym
+config/database.yml
+.rspec
